@@ -1,0 +1,295 @@
+
+/*Home section start*/
+/*body {
+	margin: 0px;
+	padding: 0px;
+}
+*/
+/*.no_padding {
+	padding: 0px;
+}
+*/
+body {
+	margin: 0px!important;
+	padding: 0px!important;
+}
+#Home {
+
+	background: url("../img/hero.png") no-repeat top center;
+	background-size: cover;
+	color: #fff;
+}
+
+.pink {
+	color: #ED145B;
+}
+.white {
+	color: #fff;
+}
+
+
+.content1 {
+    padding-top: 15%;
+    color: #fff;
+    padding-bottom: 11%;
+
+}
+
+.content1 span {
+	border-bottom:  2px solid #ED145B;
+	
+	
+	display: block;
+	width:  20%;
+	margin: 20px auto;
+}
+
+nav a {
+	color: #fff;
+}
+nav a:hover {
+	color: #ED145B;
+	
+}
+
+.btn-cstm1 {
+	background-color: #ED145B;
+	color: #fff;
+	border-radius: 35px;
+	padding: 5px 30px;
+	margin-top: 3%;
+}
+
+/*Home section end*/
+
+/*About Us Section start*/
+
+#AboutUs {
+	background-color: #F4F4F4;
+	padding: 7% 0%;
+}
+
+#AboutUs span {
+	border-bottom:  2px solid #ED145B;
+	
+	
+	display: block;
+	width:  40%;
+	margin: 20px 0px;
+}
+#AboutUs i {
+	font-size: 20px;
+	margin-left: 10px;
+}
+
+
+#AboutUs img{
+	width: 550px;
+    height: 400px;
+
+}
+
+.parent {
+	position: relative;
+
+}
+
+.child {
+
+    right: 0%;
+    position: absolute;
+    top: 30%;
+}
+
+
+
+
+/*About Us Section end*/
+
+
+/*Our services Section start*/
+
+#OurServices {
+	padding: 10% 0%;
+}
+
+
+
+.content2 {
+    padding-bottom: 5%;
+    
+    
+
+}
+
+.content2 span {
+	border-bottom:  2px solid #ED145B;
+	
+	
+	display: block;
+	width:  20%;
+	margin: 20px auto;
+}
+
+
+/*Our services Section end*/
+
+
+/*extra section start */
+
+#Prices {
+	padding: 7% 0%;
+	background-color: #F4F4F4;
+}
+
+.carousel-inner > .carousel-item > img {
+    /*position: absolute;*/
+    top: 0;
+    left: 0;
+    min-width: 100%;
+    height: 500px;
+}
+
+.parent2{
+	position: relative;
+}
+
+.child2{
+position: absolute;
+top: 40%;
+left: 40%;
+color: #fff;
+}
+
+.card {
+	padding: 0px!important;
+	margin-left: 0px;
+}
+
+.btn-cstm2 {
+	background-color: #F4F4F4;
+	color: #5A5A5A;
+	border-radius: 35px;
+	padding: 5px 30px;
+	
+}
+
+
+.parent3{
+	position: relative;
+}
+
+.child3 {
+	position: absolute;
+	top: 49%;
+}
+
+.my_background{
+	background-color: #ED145B;
+}
+
+/*extra section end */
+
+/*Info Section start*/
+
+#Info {
+	padding: 5% 0%;
+
+}
+#Info i{
+
+	color: #ED145B;
+	font-size: 40px;
+	margin-top: 15px;
+
+}
+#Info h2{
+	color: #ED145B;
+	
+}
+#INFO {
+	
+}
+
+/*Info Section end*/
+
+/*join section start*/
+
+#join {
+	background-color: #ED145B;
+	padding: 2% 0%;
+	color: #fff;
+}
+
+
+.btn-cstm3 {
+	background-color: #fff;
+	color: #ED145B;
+	border-radius: 35px;
+	padding: 5px 30px;
+	margin: 2% 0%;
+}
+
+
+/*join section end*/
+
+
+/*Update section start*/
+
+.hi {
+	font-size: 40px!important;
+}
+
+
+.my_body{
+	background-color: #F4F4F4;
+}
+
+.cstm_padding {
+	padding: 4% 0%;
+}
+
+/*Update section end*/
+
+
+/*Additional info section start*/
+
+#Additional2 {
+	background: url("../img/hero.png") no-repeat top center;
+	background-size: cover;
+}
+/*Additional info section end*/
+
+/*Download Section start*/
+#Download {
+	padding: 6% 0%;
+}
+#Download span {
+	
+	border-bottom:  2px solid #ED145B;
+	display: block;
+	width:  50%;
+	margin: 20px 0px;
+
+
+}
+
+.btn-cstm4 {
+	background-color: #ED145B;
+	color: #fff;
+	border-radius: 35px;
+	padding: 5px 30px;
+	margin-top: 3%;
+}
+
+/*Download Section end*/
+
+/*footer section start*/
+
+#Footer {
+	color: #fff;
+	padding: 2% 0%;
+	background-color: #2B2B2B;
+}
+
+/*footer section end*/
